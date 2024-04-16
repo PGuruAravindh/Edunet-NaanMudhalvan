@@ -1,0 +1,1 @@
+Key.print_screenKey.ctrl_l'v'Key.enterKey.caps_lock'o'Key.caps_lock'u''t''p''u''t'':'Key.shift'\x06'Key.ctrl_l'\x03'Key.ctrl_l't''x''\x16'Key.ctrl_lKey.ctrl_l'v''\x03'Key.ctrl_l'\x16'Key.ctrl_lKey.ctrl_l'c''\x1a'Key.ctrl_l'\x1a'Key.ctrl_lKey.shift'\x13'Key.ctrl_l
